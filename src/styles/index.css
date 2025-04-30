@@ -1,11 +1,11 @@
-/* 
+.jumbotron{
+    background-color: lightgray;
+    
 
-    You can write your own styles here...
+}
+.footer{
+    background-color: lightgrey;
     
     
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
+}
     
-    import 'relative/path/to/stylesheet.scss';
-
-*/
